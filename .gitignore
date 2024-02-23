@@ -4,6 +4,8 @@ bin/
 
 .classpath
 
+src/resources/
+
 # Compiled class file
 *.class
 
